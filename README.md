@@ -21,6 +21,7 @@
    ```bash
    ./fem ninja
    ```
+![fem](https://github.com/majdif47/fem/blob/master/250117_21h14m43s_screenshot.png)
 
 ## ⚡ **Keyboard Shortcuts**:
   - `Enter`: Copy the selected emoji to clipboard.
